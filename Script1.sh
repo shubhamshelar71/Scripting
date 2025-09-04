@@ -1,0 +1,10 @@
+echo "We are trying this practical from linux EC2"
+echo "I am from Young minds"
+echo "We are from batch-28 and learning DevOps"
+echo "We are learning Git and GitHub"
+echo "How are you?"
+echo "we are trying to merge with master branch"
+echo "trying practical of git conflict"
+echo "we are practicing git"
+echo "thanks for co-operation"
+
